@@ -6,7 +6,7 @@ on:
       - "main"
 
 jobs:
-  test:
+  my-first-job:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
